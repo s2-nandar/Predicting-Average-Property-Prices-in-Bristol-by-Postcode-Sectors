@@ -40,9 +40,7 @@ Rather than a standalone application, the project is implemented as a **reproduc
 ## Interactive Map
 
 An interactive map showing predicted average house prices by postcode sector in Bristol is available here:  
-[Open interactive map](https://s2-nandar.github.io/Predicting-Average-Property-Prices-in-Bristol-by-Postcode-Sectors/bristol_postcode_sectors_map.html)
-
-
+[Open interactive map](bristol_postcode_sectors_map.html)
 
 ---
 
