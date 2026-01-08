@@ -38,7 +38,7 @@ Rather than a standalone application, the project is implemented as a **reproduc
 - ## Interactive Map
 
 View the interactive postcode-sector price map here:  
-[Open interactive map](https://s2-nandar.github.io/Predicting-Average-Property-Prices-in-Bristol-by-Postcode-Sectors/bristol_postcode_sectors_map.html)
+https://s2-nandar.github.io/Predicting-Average-Property-Prices-in-Bristol-by-Postcode-Sectors/bristol_postcode_sectors_map.html
 
 
 ---
